@@ -43,6 +43,8 @@ In *adaptive* policy, the following rules are enforced:
 boxMaxWidth = min(embeddedMaxWidth, windowWidth) - contentInsetsHorizontal
 ```
 
+$boxMaxWidth = min(embeddedMaxWidth, windowWidth) - contentInsetsHorizontal$
+
 One would assume the following assertions to be true:
 
 1. The `styleDimensions` is equivalent to the `drawBoxDimensions`.
