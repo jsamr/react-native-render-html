@@ -11,9 +11,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 180 360.80676"
-   height="360.80676mm"
-   width="180mm">
+   viewBox="0 0 190.48145 405.23224"
+   height="405.23224mm"
+   width="190.48145mm">
   <defs
      id="defs2">
     <marker
@@ -46,10 +46,10 @@
     </marker>
   </defs>
   <sodipodi:namedview
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
+     fit-margin-bottom="10"
+     fit-margin-right="50"
+     fit-margin-left="50"
+     fit-margin-top="10"
      inkscape:window-maximized="1"
      inkscape:window-y="70"
      inkscape:window-x="0"
@@ -57,10 +57,10 @@
      inkscape:window-width="1914"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g2224-3"
+     inkscape:current-layer="g1213-3"
      inkscape:document-units="mm"
-     inkscape:cy="681.78677"
-     inkscape:cx="-522.82955"
+     inkscape:cy="916.58519"
+     inkscape:cx="6.2912488"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -81,7 +81,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-59.759278,53.799247)"
+     transform="translate(-54.518556,100.72476)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -93,7 +93,7 @@
          id="g1144">
         <g
            id="g1320"
-           transform="matrix(0.49312121,0,0,0.53488566,56.052616,246.54752)">
+           transform="matrix(0.49312121,0,0,0.53488566,56.052616,246.54748)">
           <g
              id="g1325"
              transform="translate(20.46265,57.871386)">
@@ -119,7 +119,7 @@
           </g>
         </g>
         <g
-           transform="translate(41.701679,-37.049046)"
+           transform="translate(41.70168,-86.474562)"
            id="g1220">
           <g
              id="g1536">
@@ -152,7 +152,7 @@
         </g>
         <g
            id="g1422"
-           transform="matrix(0.49312121,0,0,0.53488566,122.29389,188.92079)">
+           transform="matrix(0.49312121,0,0,0.53488566,122.29389,189.40725)">
           <text
              id="text881"
              y="187.24248"
@@ -171,7 +171,7 @@
         </g>
         <g
            id="g2224"
-           transform="translate(44.925397,62.45961)">
+           transform="translate(44.925397,63.43254)">
           <text
              transform="scale(0.96016609,1.0414865)"
              xml:space="preserve"
@@ -192,25 +192,56 @@
              x="74.256432"
              y="156.49161" />
         </g>
-        <text
-           id="text881-4-4-6"
-           y="196.33751"
-           x="138.17839"
-           style="font-style:normal;font-weight:normal;font-size:3.52777px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.135884"
-           xml:space="preserve"
-           transform="scale(0.96016608,1.0414865)"><tspan
-             id="tspan1712-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:0.135884"
+        <g
+           transform="translate(0,1.4594075)"
+           id="g1213">
+          <text
+             transform="scale(0.96016608,1.0414865)"
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.52777px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.135884"
+             x="142.35349"
              y="196.33751"
-             x="138.17839"
-             sodipodi:role="line">drawBoxDimensions</tspan></text>
-        <rect
-           y="158.58046"
-           x="124.43483"
-           height="38.752434"
-           width="50.981129"
-           id="rect1632-5"
-           style="fill:#80dd00;fill-opacity:0.596701;stroke-width:0.876612;stroke-miterlimit:4;stroke-dasharray:none" />
+             id="text881-4-4-6"><tspan
+               sodipodi:role="line"
+               x="142.35349"
+               y="196.33751"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:0.135884"
+               id="tspan1712-7">boxDimensions</tspan></text>
+          <rect
+             style="fill:#80dd00;fill-opacity:0.596701;stroke-width:0.876612;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect1632-5"
+             width="50.981129"
+             height="38.752434"
+             x="124.43483"
+             y="158.58046" />
+        </g>
+        <g
+           transform="translate(-1.2000247,-53.860738)"
+           id="g1213-3">
+          <g
+             transform="translate(0,-4.5641289)"
+             id="g1282">
+            <text
+               transform="scale(0.96016608,1.0414865)"
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:3.52777px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.135884"
+               x="138.35576"
+               y="196.33751"
+               id="text881-4-4-6-5"><tspan
+                 sodipodi:role="line"
+                 x="138.35576"
+                 y="196.33751"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:0.135884"
+                 id="tspan1251">embeddedDimensions</tspan></text>
+            <rect
+               style="fill:#ff9955;fill-opacity:0.596701;stroke-width:0.876612;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect1632-5-2"
+               width="50.981125"
+               height="30.034981"
+               x="125.63486"
+               y="167.09334" />
+          </g>
+        </g>
       </g>
     </g>
   </g>
